@@ -1,0 +1,36 @@
+body {
+    color: darkslategrey;
+    font-family: sans-serif;
+    background: linear-gradient(to right, red, white);
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 1em;
+}
+
+h1 {
+    color: rgb(49, 51, 51);
+    font-family: sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+    font-size: 3em;
+}
+
+h3 {
+    font-family: monospace;
+    text-align: center;
+    text-transform: none;
+}
+
+.btn {
+    margin-top: 1em;
+    justify-content: center;
+}
+
+button {
+    border-radius: 0.5em;
+    background-color: black;
+    color: whitesmoke;
+    box-shadow: silver;
+    border-color: black;
+}
